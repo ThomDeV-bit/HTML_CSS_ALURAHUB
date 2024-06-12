@@ -190,6 +190,11 @@
     cursor: pointer;
 }
 
+.img{
+    display: flex;
+    
+}
+
 @media  ( max-width : 960px  ){
     .main{
         align-items: center;
@@ -206,10 +211,10 @@
         align-items: center;
     }
     .section{
-        width: 500px;
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: center;
+        align-items: center;
     }
 
     .section__disponiveis__div{
@@ -229,5 +234,9 @@
 
     .h1{
         font-size: 1.4rem;
+    }
+
+    .img{
+        width: 300px;
     }
 }
