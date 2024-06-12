@@ -239,4 +239,11 @@
     .img{
         width: 300px;
     }
+
+    .h2{
+        font-weight: 60;
+        font-size: 0.9rem;
+        line-height: 24px;
+
+    }
 }
