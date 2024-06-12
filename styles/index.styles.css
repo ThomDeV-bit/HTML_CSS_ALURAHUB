@@ -85,7 +85,7 @@
     padding: 20px;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
 }
 .section__text{
     display: flex;
@@ -113,7 +113,7 @@
     flex-direction: column;
     font-family: 'Inter',sans-serif;
     font-weight: 90;
-    width: 40%;
+    width: 50%;
 }
 .section__combo__mais__link{
     display: flex;
