@@ -155,7 +155,6 @@
 .section__disponiveis__div__div{
     display: flex;
     justify-content: space-between;
-
 }
 
 .figure{
@@ -195,7 +194,7 @@
     
 }
 
-@media  ( max-width : 960px  ){
+@media  ( max-width : 1200px  ){
     .main{
         align-items: center;
         padding: auto;
