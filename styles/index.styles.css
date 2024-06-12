@@ -121,7 +121,7 @@
     justify-content: center;
     background-color: blue;
     color: white;
-    width: 40%;
+    width: 30%;
     min-width: 200px;
     font-size: 0.9rem;
     white-space: nowrap;
@@ -191,6 +191,7 @@
 
 .img{
     display: flex;
+    width: 40%;
     
 }
 
